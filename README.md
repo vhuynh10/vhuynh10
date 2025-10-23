@@ -1,4 +1,9 @@
 ## Hi there 👋
+My name is Vinny Huynh, and I'm a software engineering student at SJSU. My main interests are in working on and developing backend systems with Java and Python.
+
+- 🔭 I’m currently working on NoteNest, a collaborative AI-powered note-sharing platform built with Spring Boot and PostgreSQL.
+- 🌱 I’m experimenting with AI for smart systems and exploring ways to optimize database performance.
+- 👯 I’m looking to collaborate on open-source backend projects or educational software and tools.
 
 <!--
 **vhuynh10/vhuynh10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
